@@ -1,0 +1,38 @@
+
+/* Define a cor de fundo da página como azul escuro. */
+body {
+  background-color: #1D396C;
+}
+/* Altera a cor, alinha no centro e adiciona borda ao título */
+h1 {
+  text-align: center;
+    color: #E40F18;
+    border: 2px solid #0066cc; /* Borda azul */
+  background-color: #f0f8ff; /* Cor de fundo clara */
+  padding: 15px;            /* Espaçamento interno */
+  margin: 10px 0;           /* Espaçamento externo */
+  border-radius: 5px; 
+}
+/* Altera o alinhamento e a cor do texto dos parágrafos */
+p {
+  text-align: center;
+  color: #3FAB37;
+}
+/* Define a posição da lista e a cor dos itens */
+ul {
+    position: absolute;
+    left: 520px;
+    color: #FFDB03;
+}
+/* Define a posição da imagem */
+img {
+ position: absolute;
+  left: 445px;
+  top: 290px;
+}
+/* Define a posição do botão */
+button {
+    top: 460px;
+  position: absolute;
+  left: 650px;
+}
